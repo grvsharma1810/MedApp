@@ -1,6 +1,6 @@
 # MedApp
 
-A platform for managing patients securely.
+A platform for managing patients data securely.
 
 ![](image.png)
 
